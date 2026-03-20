@@ -142,6 +142,8 @@ export const exhibits: Exhibit[] = [
 export const worksCitedUnique = [
   "Buderi, Robert. The Invention That Changed the World. Simon & Schuster, 1996.",
   "Cowdrey, Albert E. Fighting for Life: American Military Medicine in World War II. Free Press, 1994.",
+  "Feynman, Richard P. Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character. W.W. Norton, 1985.",
+  "Feynman, Richard P. What Do You Care What Other People Think?: Further Adventures of a Curious Character. W.W. Norton, 1988.",
   "Overy, Richard. Why the Allies Won. W.W. Norton, 1995.",
   "Rhodes, Richard. The Making of the Atomic Bomb. Simon & Schuster, 1986.",
   "Zaloga, Steven J. T-34/76 Medium Tank 1941-45. Osprey Publishing, 1994.",
