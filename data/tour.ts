@@ -48,12 +48,12 @@ export type HallMedia = {
 export const hallMedia: Record<TourStepId, HallMedia> = {
   atrium: {
     heroImage:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Radar_Post_-_geograph.org.uk_-_680561.jpg/1280px-Radar_Post_-_geograph.org.uk_-_680561.jpg",
-    heroAlt: "Concrete radar post used with British WWII radar defences.",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/W%C3%BCrzburg_radar_FuMG.65%2C_Gatow.jpg?width=1600",
+    heroAlt: "Würzburg radar dish (museum specimen).",
     heroCredit:
-      "Andrew Curtis / Radar Post (geograph.org.uk) / CC BY-SA 2.0 via Wikimedia Commons.",
+      "Wikimedia Commons / Würzburg radar FuMG.65, Gatow (license on file page).",
     heroCreditUrl:
-      "https://commons.wikimedia.org/wiki/File:Radar_Post_-_geograph.org.uk_-_680561.jpg",
+      "https://commons.wikimedia.org/wiki/File:W%C3%BCrzburg_radar_FuMG.65,_Gatow.jpg",
     sketchfab: {
       uid: "2f706a86fe12454990b35a0d5b79f6ed",
       title: "Würzburg D radar (historical reference model)",
@@ -63,12 +63,12 @@ export const hallMedia: Record<TourStepId, HallMedia> = {
   },
   guns: {
     heroImage:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/M1_Garand_rifle_-_USA_-_12_April_2012_0002.jpg/1280px-M1_Garand_rifle_-_USA_-_12_April_2012_0002.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/M1_Garand_Rifle.jpg?width=1600",
     heroAlt: "M1 Garand rifle on display.",
     heroCredit:
-      "Caleb Smith / M1 Garand rifle / Public domain via Wikimedia Commons.",
+      "Wikimedia Commons / M1 Garand Rifle (license on file page).",
     heroCreditUrl:
-      "https://commons.wikimedia.org/wiki/File:M1_Garand_rifle_-_USA_-_12_April_2012_0002.jpg",
+      "https://commons.wikimedia.org/wiki/File:M1_Garand_Rifle.jpg",
     sketchfab: {
       uid: "ec368667c6a54f018c8cb4bacdebbb94",
       title: "M1 Garand",
@@ -78,12 +78,12 @@ export const hallMedia: Record<TourStepId, HallMedia> = {
   },
   tanks: {
     heroImage:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/T-34-76_exhibited_in_the_Museum_of_the_Great_Patriotic_War_in_Minsk.jpg/1280px-T-34-76_exhibited_in_the_Museum_of_the_Great_Patriotic_War_in_Minsk.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/T-34-76%20Medium%20Tank%20(37661605271).jpg?width=1600",
     heroAlt: "T-34-76 tank in a museum setting.",
     heroCredit:
-      "Alexey Minkin / T-34-76 in Minsk / CC BY-SA 4.0 via Wikimedia Commons.",
+      "Wikimedia Commons / T-34-76 Medium Tank (license on file page).",
     heroCreditUrl:
-      "https://commons.wikimedia.org/wiki/File:T-34-76_exhibited_in_the_Museum_of_the_Great_Patriotic_War_in_Minsk.jpg",
+      "https://commons.wikimedia.org/wiki/File:T-34-76_Medium_Tank_(37661605271).jpg",
     sketchfab: {
       uid: "7b32b7ef1c284ea98d7a51c91fa53fa2",
       title: "Tank T-34",
@@ -93,7 +93,7 @@ export const hallMedia: Record<TourStepId, HallMedia> = {
   },
   aircraft: {
     heroImage:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/P-51_Mustang_edit1.jpg/1280px-P-51_Mustang_edit1.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/P-51_Mustang_edit1.jpg?width=1600",
     heroAlt: "North American P-51 Mustang in flight.",
     heroCredit:
       "U.S. Air Force photo / P-51 Mustang / Public domain via Wikimedia Commons.",
@@ -108,7 +108,7 @@ export const hallMedia: Record<TourStepId, HallMedia> = {
   },
   atomic: {
     heroImage:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Trinity_Detonation_T%26B.jpg/1280px-Trinity_Detonation_T%26B.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Trinity%20Detonation%20T%26B.jpg?width=1600",
     heroAlt: "Trinity test fireball, July 16, 1945.",
     heroCredit:
       "U.S. Government / Trinity detonation / Public domain via Wikimedia Commons.",
@@ -123,12 +123,12 @@ export const hallMedia: Record<TourStepId, HallMedia> = {
   },
   medicine: {
     heroImage:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Penicillin_pastilles.jpg/1280px-Penicillin_pastilles.jpg",
-    heroAlt: "Historic penicillin pastilles package.",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Penicillin.png?width=1600",
+    heroAlt: "Penicillin (chemical representation).",
     heroCredit:
-      "Wellcome Images / Penicillin pastilles / CC BY 4.0 via Wikimedia Commons.",
+      "Wikimedia Commons / Penicillin (license on file page).",
     heroCreditUrl:
-      "https://commons.wikimedia.org/wiki/File:Penicillin_pastilles.jpg",
+      "https://commons.wikimedia.org/wiki/File:Penicillin.png",
     sketchfab: {
       uid: "1fca6f8d13f348d492563f732f14b020",
       title: "Penicillin syringe (museum object scan)",
@@ -138,11 +138,11 @@ export const hallMedia: Record<TourStepId, HallMedia> = {
   },
   "works-cited": {
     heroImage:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/WomanFactory1940.jpg/1280px-WomanFactory1940.jpg",
-    heroAlt: "Women working in a WWII factory, 1940.",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Women%27s_War_Work-_Life_in_a_Shell_Factory,_England,_UK,_1942_D8578.jpg?width=1600",
+    heroAlt: "Women working in a shell factory, England, UK, 1942.",
     heroCredit:
-      "U.S. National Archives / WomanFactory1940 / Public domain via Wikimedia Commons.",
+      "Wikimedia Commons / Women's War Work: Life in a Shell Factory (license on file page).",
     heroCreditUrl:
-      "https://commons.wikimedia.org/wiki/File:WomanFactory1940.jpg",
+      "https://commons.wikimedia.org/wiki/File:Women%27s_War_Work-_Life_in_a_Shell_Factory,_England,_UK,_1942_D8578.jpg",
   },
 };
